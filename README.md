@@ -15,8 +15,8 @@ The provided R script generates a circle packing plot based on LIN code prefixes
 
 **Plot features:**
 - Each circle represents a LIN code prefix (taxonomic level).
-- Circle color encodes the LIN code level (from 1 to 10).
 - Circles are nested within their corresponding higher/parental LIN code prefixes.
+- Circle color encodes the LIN code level (from 1 to 10).
 - Circle size displays the number of genomes for each LIN code prefix.
 - The first LIN code prefix corresponds to the species.
 - LIN code prefixes from levels 2 to 5 with ≥30 genomes are labeled.
