@@ -33,7 +33,7 @@ The provided R script generates a circle packing plot based on LIN code prefixes
 
 The provided R scripts generate alluvial plots representing hierarchical relationships between LIN code prefixes across sequential taxonomic levels.
 
-**Plot features:**  
+**Plot features:**
 - LIN code-based taxonomic levels are indicated in the *X*-axis.
 - Each level partitions are represented by white bars and ordered by decreasing total counts (*Y*-axis).
 - Inter-level links are colored according to last level partitions.
