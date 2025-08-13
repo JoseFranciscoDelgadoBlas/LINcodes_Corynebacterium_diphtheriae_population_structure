@@ -21,6 +21,12 @@ The provided R script generates a circle packing plot based on LIN code prefixes
 - LIN code prefixes (levels 2–5) with ≥30 genomes are labeled.
 - The first LIN code prefix corresponds to the species.
 
+- **R scripts:**
+  [`LINcode_circle_packing_plot_R_script.R`](LINcode_circle_packing_plot_R_script.R)
+
+- **Input dataset (Figure 1 example):**  
+  [`Figure_1_population_structure_LINcode_data.csv`](Figure_1_population_structure_LINcode_data.csv)
+  
 ---
 
 ## 🌊 Alluvial Plots
@@ -36,17 +42,11 @@ The provided R scripts generate alluvial plots representing hierarchical relatio
 - Sublineage (SL) and clonal group (ClG) nicknames are based on the most represented ST per group.
 - GC (genetic cluster) nicknames are assigned by decreasing total counts in the BIGSdb-Pasteur database.
 
----
-
-## 📁 Repository Contents
-
-- **R scripts:**  
-  [`LINcode_circle_packing_plot_R_script.R`](LINcode_circle_packing_plot_R_script.R)  
+- **R scripts:**
   [`LINcode_nickname_concordance_alluvial_plot_R_script.R`](LINcode_nickname_concordance_alluvial_plot_R_script.R)  
-  [`LINcode_prefix_decomposition_and_alluvial_plot_R_script.R`](LINcode_prefix_decomposition_and_alluvial_plot_R_script.R)  
+  [`LINcode_prefix_decomposition_and_alluvial_plot_R_script.R`](LINcode_prefix_decomposition_and_alluvial_plot_R_script.R)
 
-- **Input datasets (examples):**  
-  [`Figure_1_population_structure_LINcode_data.csv`](Figure_1_population_structure_LINcode_data.csv)  
+- **Input datasets (Figure 2 and Figure 4B examples):**
   [`Figure_2_LINcode_taxonomic_level_data.csv`](Figure_2_LINcode_taxonomic_level_data.csv)  
   [`Figure_4B_SL8_LINcode_data.csv`](Figure_4B_SL8_LINcode_data.csv)
 
