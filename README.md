@@ -9,7 +9,7 @@ These resources support:
 
 ---
 
-## 🟣 Circle Packing Plots (Figures 1 and 6)
+## 🟣 Circle Packing Plots
 
 The provided R script generates a circle packing plot based on LIN code prefixes, where each bacterial strain is defined by a complete 10-level LIN code.
 
@@ -23,7 +23,7 @@ The provided R script generates a circle packing plot based on LIN code prefixes
 
 ---
 
-## 🌊 Alluvial Plots (Figures 2, 4B, and 5B)
+## 🌊 Alluvial Plots
 
 The provided R scripts generate alluvial plots representing hierarchical relationships between LIN code prefixes across sequential taxonomic levels.
 
