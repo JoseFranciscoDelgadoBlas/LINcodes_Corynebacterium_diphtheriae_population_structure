@@ -3,8 +3,8 @@
 This repository contains input files and R scripts for analyzing the population structure of *Corynebacterium diphtheriae* strains using a ten-level, cgMLST-based LIN code system, as described in the publication:  
 **"Life identification number (LIN) codes for the genomic taxonomy of *Corynebacterium diphtheriae* strains" by Jose F. Delgado-Blas *et al.***
 
-These resources support:
-📉 **Combined silhouette & pairwise allelic mismatches plot** for visualizing population structure metrics and diversity.  
+These resources support:  
+📉 **Combined silhouette & pairwise allelic mismatches plot** for visualizing population structure metrics and diversity.
 🟣 **Circle packing plots** for hierarchical population structure.  
 🌊 **Alluvial plots** for concordance and relationships between LIN code levels.  
 
