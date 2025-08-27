@@ -25,7 +25,7 @@ This analysis generates a **superimposed plot** that combines population structu
 
 **Input datasets (Additional_file_1):**
 - [`MSTclust_Corynebacterium_diphtheriae_metrics_summary.csv`]  
-  MSTclust metrics output (see Additional_File, Delgado-Blas *et al.*)
+  MSTclust metrics output (see Additional_File: MSTclust clustering quality and robustness statistics, Delgado-Blas *et al.*)
 - [`Corynebacterium_diphtheriae_cgMLST_allelic_profiles.csv`] 
   cgMLST allelic profiles (from BIGSdb-Pasteur platform, project DelgadoBlas_LINcodes_2025)
 
