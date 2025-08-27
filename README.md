@@ -4,6 +4,7 @@ This repository contains input files and R scripts for analyzing the population 
 **"Life identification number (LIN) codes for the genomic taxonomy of Corynebacterium diphtheriae strains" by Jose F. Delgado-Blas *et al.***
 
 These resources support:
+
 📉 **Combined silhouette & pairwise allelic mismatches plot** for visualizing population structure metrics and diversity.
 🟣 **Circle packing plots** for hierarchical population structure.
 🌊 **Alluvial plots** for concordance and relationships between LIN code levels.
@@ -16,9 +17,9 @@ This analysis generates a **superimposed plot** that combines population structu
 
 **Plot features:**
 - Threshold values (*t*) are shown on the *X*-axis, corresponding to allelic profile mismatch values up to 1,305 (or 100%).
-- Silhouette consistency (*S*~t~) and Wallace stability (*W*~t~) coefficients per allelic mismatch threshold are represented by the turquoise and light green curves, respectively, including matching 95% CI ribbons (left *Y*-axis).
+- Silhouette consistency (*S*<sub>t</sub>) and Wallace stability (*W*<sub>t</sub>) coefficients per allelic mismatch threshold are represented by the turquoise and light green curves, respectively, including matching 95% CI ribbons (left *Y*-axis).
 - Distribution of pairwise cgMLST allelic mismatches are displayed in the dark blue histogram and green density curve (right *Y*-axis).
-- Local optima for population taxonomic thresholds exhibit maximum *S*~t~ values, minimum *W*~t~ values, and low allelic mismatch counts.
+- Local optima for population taxonomic thresholds exhibit maximum *S*<sub>t</sub> values, minimum *W*<sub>t</sub> values, and low allelic mismatch counts.
 
 **R script:**  
 - [`MSTclust_metrics_and_pairwise_allelic_mismatches_calculation_plot_R_script.R`](MSTclust_metrics_and_pairwise_allelic_mismatches_calculation_plot_R_script.R)
